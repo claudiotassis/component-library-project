@@ -1,5 +1,3 @@
-Entendi! Vou garantir que todas as informações estejam integradas em um único bloco de Markdown. Aqui está o `README.md` completo com todas as seções que você solicitou:
-
 ```markdown
 # Recipe App
 
